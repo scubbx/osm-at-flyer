@@ -10,6 +10,12 @@ The original design originates from https://github.com/gravitystorm/openstreetma
 * **aut_classic** reflects the classic design as was used with the German flyer
 * **aut_border** is a new design with the OSM map as a border
 
+# Preview
+
+<p align="center">
+  <img src="preview_OSM-AT-flyer_classic.png?raw=true" alt="Preview Image" />
+</p>
+
 # Changes
 
 * The text was adapted to fit Austria
