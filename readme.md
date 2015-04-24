@@ -4,16 +4,10 @@ This repository holds a redesign of the original German OpenStreetMap flyer done
 
 The original design originates from https://github.com/gravitystorm/openstreetmap-promotional-leaflets.
 
-# Repository Branches
-
-* **master** holds the current version
-* **aut_classic** reflects the classic design as was used with the German flyer
-* **aut_border** is a new design with the OSM map as a border
-
 # Preview
 
 <p align="center">
-  <img src="preview_OSM-AT-flyer_classic.png?raw=true" alt="Preview Image" />
+  <img src="preview_austria_flyer_2015.png?raw=true" alt="Preview Image" />
 </p>
 
 # Changes
