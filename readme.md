@@ -15,7 +15,7 @@ The original design originates from https://github.com/gravitystorm/openstreetma
 * The text was adapted to fit Austria
 * Images were replaced by ones showing regions in Austria
 * The software used is Scribus, NOT Inkscape.
-* Changed font to Droid Sans
+* Changed font to Droid Sans (can be downloaded from https://www.google.com/fonts/specimen/Droid+Sans )
 
 # License
 
