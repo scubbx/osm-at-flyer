@@ -7,7 +7,7 @@ The original design originates from https://github.com/gravitystorm/openstreetma
 # Preview
 
 <p align="center">
-  <img src="preview_austria_flyer_2015.png?raw=true" alt="Preview Image" />
+  <img src="preview_austria_flyer.png?raw=true" alt="Preview Image" />
 </p>
 
 # Changes
