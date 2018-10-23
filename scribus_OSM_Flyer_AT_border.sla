@@ -200,7 +200,7 @@
             <para/>
             <ITEXT CH="Spe­zi­ell für Open­Street­Map ent­wi­ckel­te "/>
             <ITEXT FONT="Droid Sans Bold" CH="Edi­toren"/>
-            <ITEXT CH=" stellt Luft­bil­der und GPS-Tracks dar und zeigen auch be­reits bei OSM er­fass­te Da­ten. Stra­ßen­ver­läu­fe, Ge­bäu­deum­ris­se, Wäl­der oder Seen kön­nen vom Luft­bild ab­ge­zeich­net wer­den, aber In­for­ma­tio­nen wie Haus­num­mern, Stra­ßen­na­men oder andere „Points of In­te­rest“ (POI) feh­len im Luft­bild. Die­se Da­ten kön­nen nur mit ge­nau­er Orts­kennt­nis hin­zu­ge­fügt wer­den, in­dem der Map­per vor Ort re­cher­chiert."/>
+            <ITEXT CH=" stellen Luft­bil­der und GPS-Tracks dar und zeigen auch be­reits bei OSM er­fass­te Da­ten. Stra­ßen­ver­läu­fe, Ge­bäu­deum­ris­se, Wäl­der oder Seen kön­nen vom Luft­bild ab­ge­zeich­net wer­den, aber In­for­ma­tio­nen wie Haus­num­mern, Stra­ßen­na­men oder andere „Points of In­te­rest“ (POI) feh­len im Luft­bild. Die­se Da­ten kön­nen nur mit ge­nau­er Orts­kennt­nis hin­zu­ge­fügt wer­den, in­dem der Map­per vor Ort re­cher­chiert."/>
             <para/>
             <para/>
             <ITEXT CH="Die Er­geb­nis­se wer­den an­schlie­ßend an die zen­tra­le Pro­jekt­da­ten­bank über­tra­gen. Aus die­sen Da­ten wird au­to­ma­tisch die "/>
